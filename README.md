@@ -16,3 +16,8 @@ TASKS INVOLVED:
 *	Home delivery details for online orders
 *	Delivery boy details
 *	Customer details
+
+CONTRIBUTORS:
+
+1. JERSHA HEARTLY X
+2. TRISHA M
